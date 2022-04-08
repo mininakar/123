@@ -11,6 +11,8 @@ import tensorflow as tf
 import time
 
 #novii komentarii!
+#odnako zdravstvuite
+
 
 # ������� ����� ������ �� � �������
 def create_and_train_model(in_data_train, out_data_train):
